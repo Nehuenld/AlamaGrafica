@@ -1,0 +1,87 @@
+.responsive img {
+		height: 217px;
+    padding: 0px 0px 19px 92px
+	}
+
+#inputMessage {
+	height: 137px;
+}
+
+
+#map {
+	height: 400px;
+	width: 100%;
+ }
+
+
+#carousel-example-generic img {
+  height: 100%; }
+#carousel-example-generic h2 {
+  color: black;
+  text-transform: uppercase; }
+#carousel-example-generic p {
+  color: black; }
+
+main h2 {
+	padding: 20px 0 20px 0; 
+	font-family: 'Patua One', cursive;}
+main video {
+  width: 317px !important;
+	height: 184px !important;
+	margin: 79px 20px; }
+main .embed-responsive-16by9 {
+  padding-bottom: 24.25%; }
+main .maquina {
+  height: 238px; }
+main .folletos {
+  text-transform: uppercase;
+  font-size: 10px;
+  transition: 2s; }
+  main .folletos:hover {
+    font-size: 14px;
+    transition: 1s;
+    color: red; }
+
+footer {
+	background-color: black;
+	padding: 43px;
+	color: white;
+}
+.dropdown-toggle{
+	margin: 22px;
+}
+.contacto{
+	padding-top: 38px !important;
+	margin-top: 25PX;
+}
+.direccion{
+	padding-top: 13px;
+	margin: 37px -20px 0px 15px;
+}
+.logo{
+	background: #222222 !important;
+}
+.navbar{
+	margin: 0px 0px 0px 0px;
+	font-family: 'Cookie', cursive;
+	font-size: 31px;
+}
+.col-md-4{
+	font-family: 'Cabin Condensed', sans-serif;
+}
+.productos{
+	margin: 30px 100px 30px 100px;
+}
+.footerContacto{
+	padding: 90px 0px 0px 311px;
+}
+.material-icons{
+	color: red;
+	font-size: 18px;
+}
+.firma{
+	text-align: right;
+}
+.dropdown-toggle{
+	margin: 47PX 22PX 0PX 22PX;
+}
